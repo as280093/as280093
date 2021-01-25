@@ -1,8 +1,8 @@
 
 <h1 align="left" id="as280093-title">:wave: Hello there! I'm Ankit Singh</h1>
-Joined Github **4** years ago.
+Joined Github  <b>4<b> years ago.
 
-Since then I pushed **225** commits, opened **54** issues, submitted **77** pull requests, received **6** stars across **7** personal projects and contributed to **11** public repositories.
+Since then I pushed **226** commits, opened **54** issues, submitted **77** pull requests, received **6** stars across **7** personal projects and contributed to **11** public repositories.
 
 
 <p align="left">

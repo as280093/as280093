@@ -1,6 +1,6 @@
 
 <h1 align="left" id="as280093-title">:wave: Hello there! I'm Ankit Singh</h1>
-Joined Github **{{ ACCOUNT_AGE }}** years ago.
+Joined Github  <b>{{ ACCOUNT_AGE }}<b> years ago.
 
 Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 

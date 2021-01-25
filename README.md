@@ -1,8 +1,8 @@
 
 <h1 align="left" id="as280093-title">:wave: Hello there! I'm Ankit Singh</h1>
-Joined Github  <b>4<b> years ago.
+Joined Github  <b> 4 <b> years ago.
 
-Since then I pushed **226** commits, opened **54** issues, submitted **77** pull requests, received **6** stars across **7** personal projects and contributed to **11** public repositories.
+Since then I pushed **227** commits, opened **54** issues, submitted **77** pull requests, received **6** stars across **7** personal projects and contributed to **11** public repositories.
 
 
 <p align="left">
@@ -146,6 +146,7 @@ Since then I pushed **226** commits, opened **54** issues, submitted **77** pull
 <img src="https://count.getloli.com/get/@:as280093?theme=rule43" alt=":as280093" />
 
 <!-- links -->
-<p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
+<p align="left"><sub>. <a href="https://github.com/marketplace/actions/profile-readme-stats">.</a></sub></p>
+
 [issues page]: https://github.com/as280093/as280093/issues "as280093/issues"
 [linkedin]: https://www.linkedin.com/in/as280093 "Ankit Singh LinkedIn"

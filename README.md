@@ -2,14 +2,8 @@
 <h1 align="left" id="as280093-title">:wave: Hello there! I'm Ankit Singh</h1>
 Joined Github **4** years ago.
 
-Since then I pushed **224** commits, opened **54** issues, submitted **77** pull requests, received **6** stars across **7** personal projects and contributed to **11** public repositories.
+Since then I pushed **225** commits, opened **54** issues, submitted **77** pull requests, received **6** stars across **7** personal projects and contributed to **11** public repositories.
 
-Most used languages across my projects:
-
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B165.9%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B124.7%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B16.1%25)
-![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B13.1%25)
 
 <p align="left">
   <a href="https://github.com/as280093/as280093">
@@ -34,7 +28,12 @@ Most used languages across my projects:
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
+<h2 align="left" id="as280093-tech">Most used languages across my projects:</h2>
 
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B165.9%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B124.7%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B16.1%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B13.1%25)
 <h2 align="left" id="as280093-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.

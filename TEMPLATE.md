@@ -145,7 +145,7 @@ Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, s
 <img src="https://count.getloli.com/get/@:as280093?theme=rule43" alt=":as280093" />
 
 <!-- links -->
-<p align="left"><sub>. <a href="https://github.com/marketplace/actions/profile-readme-stats">.</a></sub></p>
+
 
 [issues page]: https://github.com/as280093/as280093/issues "as280093/issues"
 [linkedin]: https://www.linkedin.com/in/as280093 "Ankit Singh LinkedIn"

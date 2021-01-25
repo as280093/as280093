@@ -18,7 +18,7 @@ Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, s
 </p>
 
 <a href="#as280093-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=as280093&show_icons=true&count_private=true&include_all_commits=true" alt="as280093" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=as280093&theme=vision-friendly-dark&show_icons=true&count_private=true&include_all_commits=true" alt="as280093" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **Home**

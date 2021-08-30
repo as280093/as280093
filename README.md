@@ -149,4 +149,4 @@ Since then I pushed **241** commits, opened **65** issues, submitted **76** pull
 
 
 [issues page]: https://github.com/as280093/as280093/issues "as280093/issues"
-[linkedin]: https://www.linkedin.com/in/as280093 "Ankit Singh LinkedIn"
+

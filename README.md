@@ -1,8 +1,8 @@
 
-<h1 align="left" id="as280093-title">:wave: Hello there! I'm as280093</h1>
-Joined Github  <b> 4 <b> years ago.
+<h1 align="left" id="as280093-title">:wave: Hello there! I'm Ankit Singh</h1>
+Joined Github  <b> 5 <b> years ago.
 
-Since then I pushed **241** commits, opened **65** issues, submitted **76** pull requests, received **7** stars across **8** personal projects and contributed to **12** public repositories.
+Since then I pushed **87** commits, opened **61** issues, submitted **77** pull requests, received **0** stars across **1** personal projects and contributed to **6** public repositories.
 
 
 <p align="left">
@@ -30,10 +30,6 @@ Since then I pushed **241** commits, opened **65** issues, submitted **76** pull
 <br>
 <h2 align="left" id="as280093-tech">Most used languages across my projects:</h2>
 
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B163.2%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B123.7%25)
-![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B17%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B15.9%25)
 <h2 align="left" id="as280093-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
@@ -149,4 +145,4 @@ Since then I pushed **241** commits, opened **65** issues, submitted **76** pull
 
 
 [issues page]: https://github.com/as280093/as280093/issues "as280093/issues"
-
+[linkedin]: https://www.linkedin.com/in/as280093 "Ankit Singh LinkedIn"

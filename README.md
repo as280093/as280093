@@ -2,7 +2,7 @@
 <h1 align="left" id="as280093-title">:wave: Hello there! I'm Ankit Singh</h1>
 Joined Github  <b> 5 <b> years ago.
 
-Since then I pushed **87** commits, opened **61** issues, submitted **77** pull requests, received **0** stars across **1** personal projects and contributed to **6** public repositories.
+Since then I pushed **101** commits, opened **61** issues, submitted **77** pull requests, received **0** stars across **2** personal projects and contributed to **6** public repositories.
 
 
 <p align="left">
@@ -30,6 +30,9 @@ Since then I pushed **87** commits, opened **61** issues, submitted **77** pull 
 <br>
 <h2 align="left" id="as280093-tech">Most used languages across my projects:</h2>
 
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B176%25)
+![SCSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c6538c&message=SCSS%EF%B8%B119.2%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B14.6%25)
 <h2 align="left" id="as280093-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.

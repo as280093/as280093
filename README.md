@@ -1,16 +1,16 @@
 
-<h1 align="left" id="as280093-title">:wave: Hello there! I'm Ankit Singh</h1>
+<h1 align="left" id="as280093-title">:wave: Hello there! I'm as280093</h1>
 Joined Github  <b> 5 <b> years ago.
 
-Since then I pushed **101** commits, opened **61** issues, submitted **77** pull requests, received **0** stars across **2** personal projects and contributed to **6** public repositories.
+Since then I pushed **102** commits, opened **61** issues, submitted **77** pull requests, received **0** stars across **2** personal projects and contributed to **6** public repositories.
 
 
 <p align="left">
   <a href="https://github.com/as280093/as280093">
     <img src="https://komarev.com/ghpvc/?username=as280093" alt="page views" />
   </a>
-  <a href="https://reddit.com/u/as280093">
-    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/as280093?label=karma&logo=reddit">
+  <a href="https://twitter.com/as280093">
+    <img alt="Twitter" src="https://img.shields.io/twitter/follow/as280093?label=Twitter&style=flat&logo=twitter">
   </a>
   <a href="https://github.com/as280093?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/as280093?color=green&logo=github">
@@ -22,10 +22,9 @@ Since then I pushed **101** commits, opened **61** issues, submitted **77** pull
 </a>
 
 - :office: &nbsp;I'm currently working at **Home**
-- :seedling: &nbsp;I’m currently learning **Python**
+- :seedling: &nbsp;I’m currently learning **Python** and [more][learning_now_anchor]
 - :speech_balloon: &nbsp;I like to talk about **Anime** and **Manga**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
 <h2 align="left" id="as280093-tech">Most used languages across my projects:</h2>
@@ -33,119 +32,38 @@ Since then I pushed **101** commits, opened **61** issues, submitted **77** pull
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B176%25)
 ![SCSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c6538c&message=SCSS%EF%B8%B119.2%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B14.6%25)
-<h2 align="left" id="as280093-tech">Favorite Tech</h2>
+<br>
+  
+## 🛠  Technologies and tools
 
-> Tools, languages, and other things that I like to work with.
+<a name="learning-now"></a>
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#as280093-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
-      </a>
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <a href="#as280093-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#as280093-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#as280093-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#as280093-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#as280093-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#as280093-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#as280093-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#as280093-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center"  width="96">
-      <a href="#as280093-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center"  width="96">
-      <a href="#as280093-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
-      </a>
-      <br>RHEL
-    </td>
-    <td align="center" width="96">
-      <a href="#as280093-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
-      </a>
-      <br>Powershell
-    </td>
-    <td align="center"  width="96">
-      <a href="#as280093-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#as280093-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
-    <td align="center" width="96">
-      <a href="#as280093-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
-      </a>
-      <br>Prometheus
-    </td>
-    <td align="center" width="96">
-      <a href="#as280093-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
-      </a>
-      <br>Thanos
-    </td>
-  </tr>
-</table>
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/python-282C34?logo=python&logoColor=ffdd54" alt="Python Logo" title="Python" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/c%23-282C34.svg?logo=c-sharp&logoColor=white" alt="C# Logo" title="C#" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/pycharm-282C34?logo=pycharm" alt="PyCharm Logo" title="PyCharm" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
+&nbsp;
+<a name="learning-next"></a>
 
-<h2 align="left">Visitor count</h2>
+## 📖  What I am currently learning / improving on
 
-<img src="https://count.getloli.com/get/@:as280093?theme=rule43" alt=":as280093" />
-
-<!-- links -->
+[<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_now_anchor]
 
 
 [issues page]: https://github.com/as280093/as280093/issues "as280093/issues"
-[linkedin]: https://www.linkedin.com/in/as280093 "Ankit Singh LinkedIn"
+[tech_tools_anchor]: Hello...
+[learning_now_anchor]: #learning-now
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)

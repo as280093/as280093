@@ -2,7 +2,7 @@
 <h1 align="left" id="as280093-title">:wave: Hello there! I'm as280093</h1>
 Joined Github  <b> 5 <b> years ago.
 
-Since then I pushed **102** commits, opened **61** issues, submitted **77** pull requests, received **0** stars across **2** personal projects and contributed to **6** public repositories.
+Since then I pushed **102** commits, opened **61** issues, submitted **77** pull requests, received **1** stars across **2** personal projects and contributed to **6** public repositories.
 
 
 <p align="left">
